@@ -1,0 +1,18 @@
+(Created by ChatGPT)Company Name:
+NovaEdge Analytics (Early-stage SaaS)
+
+Job Title:
+Software Engineer 
+
+Job Description:
+Designed RESTful APIs using Node.js and TypeScript to process structured user documents and generate real-time analytics insights.
+
+Built asynchronous document-processing pipeline handling 5k+ file uploads per month with cloud object storage.
+
+Implemented key-value storage strategy for fast metadata retrieval and version control.
+
+Integrated LLM-based analysis system to extract structured feedback and scoring metrics.
+
+Reduced processing latency by 40% by optimizing file I/O and async workflows.
+
+Collaborated with product team to refine data models and user-facing reporting dashboard.
